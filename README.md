@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Repositorio de pruebas
 
-You can use the [editor on GitHub](https://github.com/academicorita/pruebaspython/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hacer enlaces como este [enlaceDemo](https://github.com/academicorita/pruebaspython/edit/master/README.md) es muy facil; para saltar de linea se dejan dos espacios seguidos a este punto.  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
